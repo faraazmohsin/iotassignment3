@@ -11,3 +11,13 @@
 
 views.py
 ---
+
+
+urls.py
+---
+
+models.py
+---
+
+templates -> index.html
+---
