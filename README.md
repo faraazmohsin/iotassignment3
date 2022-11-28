@@ -19,5 +19,5 @@ urls.py
 models.py
 ---
 
-templates -> index.html
+templates/index.html
 ---
