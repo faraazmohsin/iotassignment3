@@ -17,6 +17,7 @@ then output the values with jSON. The requests results are displayed on localhos
 
 urls.py
 ---
+The urls code structure maps the urls to the services. The lines 13 - 16 map the urls of the application.
 
 models.py
 ---
