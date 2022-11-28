@@ -24,4 +24,4 @@ templates/index.html
 
 ### Architectural Design
 
-Diagram 1: [](https://github.com/faraazmohsin/iotassignment3/blob/main/architectural%20design/architectural_design1.PNG)
+Diagram 1: [Diagram 1](https://github.com/faraazmohsin/iotassignment3/blob/main/architectural%20design/architectural_design1.PNG)
