@@ -25,6 +25,7 @@ The model code structure defines the stored data, including field types, sizes, 
 
 templates/index.html
 ---
+The index.html file in the template directory handles the frontend of the application the user/client interacts with.
 
 ### Architectural Design
 
