@@ -11,7 +11,9 @@
 
 views.py
 ---
-
+The views code structure provides APIView class, which subclasses Django's View class.
+Requests such as 'on', 'off', 'auto', and 'manual' have been defined to request POST methods and
+then output the values with jSON. The requests results are displayed on localhost. 
 
 urls.py
 ---
