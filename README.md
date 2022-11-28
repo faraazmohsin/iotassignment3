@@ -21,6 +21,7 @@ The urls code structure maps the urls to the services. The lines 13 - 16 map the
 
 models.py
 ---
+The model code structure defines the stored data, including field types, sizes, etc. In this structure we have defined the name with character field length of 50.
 
 templates/index.html
 ---
