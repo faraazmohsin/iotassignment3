@@ -17,7 +17,7 @@ then output the values with jSON. The requests results are displayed on localhos
 
 urls.py
 ---
-The urls code structure maps the urls to the services. The lines 13 - 16 map the urls of the application.
+The urls code structure maps the urls to the services. The lines 13 - 16 map the urls of the application. ViewSets are used in place of views, therefore by just registering the viewsets with a router class, the URL configuration may be generated automatically. Routers automatically deciding how the logic involved in handling incoming requests should be translated to an application's URLs
 
 models.py
 ---
