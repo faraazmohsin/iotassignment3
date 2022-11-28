@@ -9,15 +9,15 @@
 
 ### Code Structure
 
-###views.py
+### views.py
 ---
 
 
-###urls.py
+### urls.py
 ---
 
-###models.py
+### models.py
 ---
 
-###templates/index.html
+### templates/index.html
 ---
